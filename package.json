@@ -1,0 +1,22 @@
+{
+    "name": "pokemon",
+    "version": "1.0.0",
+    "description": "Pokemon practice app",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CodingDojo-MEAN-10-18/JeremyW.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "webpack-dev-server"
+    },
+    "author": "Jeremy Wilson",
+    "license": "ISC",
+    "devDependencies": {
+        "http-server": "^0.11.1",
+        "webpack": "^4.20.2",
+        "webpack-cli": "^3.1.2",
+        "webpack-dev-server": "^3.1.9",
+        "wepack": "0.0.1"
+    }
+}

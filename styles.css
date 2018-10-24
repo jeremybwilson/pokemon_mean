@@ -1,0 +1,47 @@
+#container {
+    width: auto;
+    max-width: 1052px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+#header h1, #header h2 {
+    text-align: center;
+}
+
+#selection-area {
+    padding: 10px;
+    margin: 20px 0px;
+}
+
+#header {
+    display:block;
+}
+
+.pokemon-img {
+    display: inline-block;
+    width: 96px;
+    height: 96px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.scroll-button {
+    left: 50%;
+    top: 50%;
+    transform: translate(0%, 0%);
+    display: inline-block;
+    border-radius: 5px;
+}
+
+.arrow-img {
+    width: 18px;
+}
+
+#info-area {
+    margin: 10px auto;
+    display: inline-block;
+    width: 500px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
